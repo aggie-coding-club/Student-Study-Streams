@@ -41,7 +41,7 @@ For questions or feedback, please reach out to us on the TAMU Coding Club Discor
 
 # 👥 Contributors
 
-<table> <tr> <td align="center"><a href="https://github.com/username"><img src="https://avatars.githubusercontent.com/username?v=4" width="100px;" alt=""/><br /><sub><b>Your Name</b></sub></a><br /></td> <!-- Add more contributors as needed --> </tr> </table>
+<table> <tr> <td align="center"><a href="https://github.com/PranavUttarkar"><img src="https://avatars.githubusercontent.com/PranavUttarkar?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Uttarkar</b></sub></a><br /></td> <table> <tr> <td align="center"><a href="https://github.com/PranavUttarkar"><img src="https://avatars.githubusercontent.com/PranavUttarkar?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Uttarkar</b></sub></a><br /></td>
 📷 Screenshots
 Homepage
 
