@@ -2,11 +2,11 @@
 
 # 📚 TAMU Studys - Collaborative Learning Platform for Texas A&M Students
 
-Welcome to TAMU ClassHub, a community-driven Q&A and discussion platform designed for Texas A&M University students. This project aims to foster a collaborative learning environment where students can ask questions, share knowledge, and discuss class material with peers in a structured, class-specific space.
+Welcome to TAMU Studys, a community-driven Q&A and discussion platform designed for Texas A&M University students. This project aims to foster a collaborative learning environment where students can ask questions, share knowledge, and discuss class material with peers in a structured, class-specific space.
 
 # 🎓 Purpose
 
-TAMU ClassHub combines the features of Stack Overflow and Reddit to provide a supportive space for students to:
+TAMU Studys combines the features of Stack Overflow and Reddit to provide a supportive space for students to:
 
 Ask questions about specific classes
 Share insights and solutions related to assignments, homework, and projects
@@ -20,13 +20,13 @@ Tags & Filters: Tag questions by topic (e.g., "Homework", "Exams", "Labs") for e
 User Profiles: Earn reputation points, badges, and achievements based on contributions, encouraging participation and rewarding helpfulness.
 Real-Time Notifications: Receive updates on answers, comments, and mentions, ensuring users stay engaged with relevant discussions.
 
-# 💡 Why TAMU ClassHub?
+# 💡 Why TAMU Studys?
 
-Traditional online forums lack the structure to support class-specific discussions. TAMU ClassHub addresses this by focusing on Texas A&M courses. Whether you're a freshman or a senior, TAMU ClassHub offers an organized space to connect with classmates, gain insights, and succeed in your courses.
+Traditional online forums lack the structure to support class-specific discussions. TAMU Studys addresses this by focusing on Texas A&M courses. Whether you're a freshman or a senior, TAMU Studys offers an organized space to connect with classmates, gain insights, and succeed in your courses.
 
 # 🤝 Contributing
 
-We welcome contributions to improve TAMU ClassHub! To contribute:
+We welcome contributions to improve TAMU Studys! To contribute:
 
 Fork the repository.
 Create a new branch (git checkout -b feature/YourFeature).
